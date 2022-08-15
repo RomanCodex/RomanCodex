@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RomanCodex. 
+- 👋 Hi, I’m Ibukunoluwa Adekunle. 
 - 👀 I’m interested in Web and API development. 
 - 🌱 I’m currently learning Full Stack Web Development with Udacity. 
 - 💞️ I’m looking to collaborate on all the great open source web development projects available. 
