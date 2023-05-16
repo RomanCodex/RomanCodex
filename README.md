@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m interested in Web and API development.<br>I just finished my certification with Udacity courtesy of ALX.<br>I am currently polishing up on my Front end skills<br>My main languages are JavaScript, Python<br>My preferred frameworks are ReactJS, NodeJS, Django, Flask, BootStrap<br>I’m looking to collaborate on all the great open source web development projects available.
+I’m interested in Web and API development.<br>I just finished my certification with Udacity courtesy of ALX.<br>I am currently taking courses on Coursera tught by developers at Meta<br>My main languages are Python, JavaScript<br>My preferred frameworks are Django, Flask, React JS, NodeJS and BootStrap.<br>I’m looking to collaborate on all the great open source web development projects available.
 
 
 ## 🌐 Socials:
