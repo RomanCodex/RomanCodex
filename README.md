@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m interested in Web and API development.<br>I took some courses to get a certification with Udacity courtesy of ALX-T.<br>I am currently taking courses on Coursera tught by developers at Meta<br>My main languages are Python, JavaScript<br>My preferred frameworks are Django, Flask, React JS, NodeJS and BootStrap.<br>I’m looking to collaborate on all the great open source web development projects available.
+I’m interested in Web and API development.<br>I took some courses to get a certification with Udacity courtesy of ALX-T.<br>I am currently taking courses on Coursera taught by developers at Meta<br>My main languages are Python, JavaScript<br>My preferred frameworks are Django, Flask, React JS, NodeJS and BootStrap.<br>I’m looking to collaborate on all the great open source web development projects available.
 
 
 ## 🌐 Socials:
